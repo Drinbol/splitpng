@@ -1,0 +1,9 @@
+[project]
+name = "splitpng"
+version = "0.1.0"
+description = "分离 PNG 图像 RGB 与 Alpha 通道的小工具"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=12.1.0",
+]
